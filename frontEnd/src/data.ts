@@ -25,8 +25,8 @@ const data = {
             description: "high quality shirt",
         },
         {
-            name: "Nike Slim Pant",
-            slug: "nike-slim-pant",
+            name: "Nike Slim Pants",
+            slug: "nike-slim-pants",
             category: "Pants",
             image: "/images/p3.jpg",
             price: 25,
@@ -37,8 +37,8 @@ const data = {
             description: "high quality shirt",
         },
         {
-            name: "Adidas Fit shirt",
-            slug: "adidas-fit-shirt",
+            name: "Adidas Fit pants",
+            slug: "adidas-fit-pants",
             category: "Pants",
             image: "/images/p4.jpg",
             price: 65,
